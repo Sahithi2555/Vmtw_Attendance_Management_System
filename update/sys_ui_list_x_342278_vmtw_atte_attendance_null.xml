@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_342278_vmtw_atte_attendance" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_342278_vmtw_atte_attendance" element="NULL" name="x_342278_vmtw_atte_attendance" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7733d372db42330020a88a1848961921</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 05:19:07</sys_created_on>
+            <sys_id>fb33d372db42330020a88a184896192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 05:19:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_department</element>
+            <list_id display_value="x_342278_vmtw_atte_attendance" element="NULL" name="x_342278_vmtw_atte_attendance" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7733d372db42330020a88a1848961921</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 05:19:07</sys_created_on>
+            <sys_id>f333d372db42330020a88a184896192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 05:19:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_section</element>
+            <list_id display_value="x_342278_vmtw_atte_attendance" element="NULL" name="x_342278_vmtw_atte_attendance" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7733d372db42330020a88a1848961921</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 05:19:07</sys_created_on>
+            <sys_id>7733d372db42330020a88a184896192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 05:19:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_yearsem</element>
+            <list_id display_value="x_342278_vmtw_atte_attendance" element="NULL" name="x_342278_vmtw_atte_attendance" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7733d372db42330020a88a1848961921</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 05:19:07</sys_created_on>
+            <sys_id>f733d372db42330020a88a184896192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 05:19:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_342278_vmtw_atte_attendance</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 05:19:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7733d372db42330020a88a1848961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_342278_vmtw_atte_attendance</sys_name>
+            <sys_package display_value="VMTW_Attendance_Management_System" source="x_342278_vmtw_atte">67b48fb6db02330020a88a184896190e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VMTW_Attendance_Management_System">67b48fb6db02330020a88a184896190e</sys_scope>
+            <sys_update_name>sys_ui_list_x_342278_vmtw_atte_attendance_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 05:19:07</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

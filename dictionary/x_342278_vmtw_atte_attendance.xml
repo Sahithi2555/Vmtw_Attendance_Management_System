@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Attendance" max_length="40" name="x_342278_vmtw_atte_attendance" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="16UP1A0501" max_length="40" name="u_16up1a0501" type="boolean"/>
+        <element label="16UP1A0502" max_length="40" name="u_16up1a0502" type="boolean"/>
+        <element label="16UP1A0503" max_length="40" name="u_16up1a0503" type="boolean"/>
+        <element label="16UP1A0504" max_length="40" name="u_16up1a0504" type="boolean"/>
+        <element label="16UP1A0505" max_length="40" name="u_16up1a0505" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Department" mandatory="true" max_length="40" name="u_department" type="string">
+            <choice>
+                <element inactive_on_update="false" label="CSE" sequence="0" value="CSE"/>
+                <element inactive_on_update="false" label="ECE" sequence="1" value="ECE"/>
+                <element inactive_on_update="false" label="EEE" sequence="2" value="EEE"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Date/Time" mandatory="true" max_length="40" name="u_glide_date_time_12" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Period" mandatory="true" max_length="40" name="u_period" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="5" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="6" sequence="5" value="6"/>
+                <element inactive_on_update="false" label="7" sequence="6" value="7"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Section" mandatory="true" max_length="40" name="u_section" type="string">
+            <choice>
+                <element inactive_on_update="false" label="A" sequence="0" value="A"/>
+                <element inactive_on_update="false" label="B" sequence="1" value="B"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Subject" mandatory="true" max_length="40" name="u_subject" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Year-Sem" mandatory="true" max_length="40" name="u_yearsem" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1-1" sequence="0" value="1-1"/>
+                <element inactive_on_update="false" label="1-2" sequence="1" value="1-2"/>
+                <element inactive_on_update="false" label="2-1" sequence="2" value="2-1"/>
+                <element inactive_on_update="false" label="2-2" sequence="3" value="2-2"/>
+                <element inactive_on_update="false" label="3-1" sequence="4" value="3-1"/>
+                <element inactive_on_update="false" label="3-2" sequence="5" value="3-2"/>
+                <element inactive_on_update="false" label="4-1" sequence="6" value="4-1"/>
+                <element inactive_on_update="false" label="4-2" sequence="7" value="4-2"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_subject" label="Subject" language="en" table="x_342278_vmtw_atte_attendance">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_subject</element>
+            <help/>
+            <hint/>
+            <label>Subject</label>
+            <language>en</language>
+            <name>x_342278_vmtw_atte_attendance</name>
+            <plural>Subjects</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 08:50:12</sys_created_on>
+            <sys_id>fb838ccfdb82330020a88a18489619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Subject</sys_name>
+            <sys_package display_value="VMTW_Attendance_Management_System" source="x_342278_vmtw_atte">67b48fb6db02330020a88a184896190e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VMTW_Attendance_Management_System">67b48fb6db02330020a88a184896190e</sys_scope>
+            <sys_update_name>sys_documentation_x_342278_vmtw_atte_attendance_u_subject_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 08:50:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

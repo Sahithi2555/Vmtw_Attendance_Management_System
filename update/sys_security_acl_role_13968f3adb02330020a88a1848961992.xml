@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-19 04:23:56</sys_created_on>
+        <sys_id>13968f3adb02330020a88a1848961992</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_342278_vmtw_atte_attendance.x_342278_vmtw_atte.attendance_user</sys_name>
+        <sys_package display_value="VMTW_Attendance_Management_System" source="x_342278_vmtw_atte">67b48fb6db02330020a88a184896190e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VMTW_Attendance_Management_System">67b48fb6db02330020a88a184896190e</sys_scope>
+        <sys_security_acl display_value="x_342278_vmtw_atte_attendance">d7968f3adb02330020a88a184896198f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_13968f3adb02330020a88a1848961992</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 04:23:56</sys_updated_on>
+        <sys_user_role display_value="x_342278_vmtw_atte.attendance_user" name="x_342278_vmtw_atte.attendance_user">0b964f3adb02330020a88a18489619a1</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

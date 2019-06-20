@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_period" table="x_342278_vmtw_atte_attendance" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_period</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1</label>
+            <language>en</language>
+            <name>x_342278_vmtw_atte_attendance</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 08:50:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b383cccfdb82330020a88a184896190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 08:50:12</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_period</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2</label>
+            <language>en</language>
+            <name>x_342278_vmtw_atte_attendance</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 08:50:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f383cccfdb82330020a88a1848961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 08:50:12</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_period</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3</label>
+            <language>en</language>
+            <name>x_342278_vmtw_atte_attendance</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 08:50:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7383cccfdb82330020a88a1848961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 08:50:12</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_period</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4</label>
+            <language>en</language>
+            <name>x_342278_vmtw_atte_attendance</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 08:50:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff83cccfdb82330020a88a1848961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 08:50:12</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_period</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_342278_vmtw_atte_attendance</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 08:50:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f83cccfdb82330020a88a1848961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 08:50:12</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_period</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6</label>
+            <language>en</language>
+            <name>x_342278_vmtw_atte_attendance</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 08:50:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb83cccfdb82330020a88a1848961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 08:50:12</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_period</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7</label>
+            <language>en</language>
+            <name>x_342278_vmtw_atte_attendance</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 08:50:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b83cccfdb82330020a88a1848961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 08:50:12</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_period</element>
+            <name>x_342278_vmtw_atte_attendance</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 08:50:12</sys_created_on>
+            <sys_id>fb83cccfdb82330020a88a184896190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_period</sys_name>
+            <sys_package display_value="VMTW_Attendance_Management_System" source="x_342278_vmtw_atte">67b48fb6db02330020a88a184896190e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VMTW_Attendance_Management_System">67b48fb6db02330020a88a184896190e</sys_scope>
+            <sys_update_name>sys_choice_x_342278_vmtw_atte_attendance_u_period</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 08:50:12</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
